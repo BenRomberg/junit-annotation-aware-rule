@@ -1,0 +1,1 @@
+# junit-annotation-aware-rule
